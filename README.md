@@ -1,6 +1,3 @@
-# Final-Year-Block-chain-Project
-
-
 ### Nutshell: 
 Security of Communication Increase through Use of Combination of Cryptography and Blockchain technology.
 
@@ -12,30 +9,3 @@ Final Year Blockchain Project
 
 ![Cryptographyand Blockchain Combination PrOJECT](https://user-images.githubusercontent.com/28294942/135728332-aeb851dd-e08e-4179-b664-96de6ce73733.png)
 
-
-Updates:
-
-
-https://github.com/Vatshayan/Blockchain-and-Cryptography-Communication-System/blob/main/Untitled%20Diagram.jpg
-
-
-### Youtube Presentation of this Project : https://youtu.be/Kt8NHdWnvdk
-
-
-### Contact for this Project files as PPT, Research papers, Code, Report and Video Explanation HD.
-
-### Need Code, Documents & Explanation video ? 
-
-## How to Reach me :
-
-### Mail : vatshayan007@gmail.com 
-
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
-
-### Website : https://www.finalproject.in/
-
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
-Mail/Message me for Projects Help 🙏🏻
-
-Project is made by **me([Vatshayan](https://github.com/Vatshayan))**
